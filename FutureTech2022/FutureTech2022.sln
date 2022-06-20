@@ -3,29 +3,61 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32611.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.GenericMath", "FutureTech2022.GenericMath\FutureTech2022.GenericMath.csproj", "{440A814E-E787-4E9F-A66A-878752A5FB84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.GenericMath", "FutureTech2022.GenericMath\FutureTech2022.GenericMath.csproj", "{440A814E-E787-4E9F-A66A-878752A5FB84}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Generic Math", "01. Generic Math", "{154CC093-CA67-462C-B409-0444CB8D6A31}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. Generic Math", "8. Generic Math", "{154CC093-CA67-462C-B409-0444CB8D6A31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.MicrosecondsAndNanoseconds", "FutureTech2022.MicrosecondsAndNanoseconds\FutureTech2022.MicrosecondsAndNanoseconds.csproj", "{45BB9C54-43C9-45A5-940D-367E318A0956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.MicrosecondsAndNanoseconds", "FutureTech2022.MicrosecondsAndNanoseconds\FutureTech2022.MicrosecondsAndNanoseconds.csproj", "{45BB9C54-43C9-45A5-940D-367E318A0956}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.InterpolatedStringHoles", "FutureTech2022.CSharp11.InterpolatedStringHoles\FutureTech2022.CSharp11.InterpolatedStringHoles.csproj", "{C4BECFD1-3BD4-4CFE-BD21-0EACAEA7E590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CSharp11.InterpolatedStringHoles", "FutureTech2022.CSharp11.InterpolatedStringHoles\FutureTech2022.CSharp11.InterpolatedStringHoles.csproj", "{C4BECFD1-3BD4-4CFE-BD21-0EACAEA7E590}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99. CSharp 11", "99. CSharp 11", "{830BF079-D334-46C5-8D5A-D4ACA954297C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9. CSharp 11", "9. CSharp 11", "{830BF079-D334-46C5-8D5A-D4ACA954297C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.ListPatterns", "FutureTech2022.CSharp11.ListPatterns\FutureTech2022.CSharp11.ListPatterns.csproj", "{C8289113-BA80-43C3-83EB-EC01DA70513A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CSharp11.ListPatterns", "FutureTech2022.CSharp11.ListPatterns\FutureTech2022.CSharp11.ListPatterns.csproj", "{C8289113-BA80-43C3-83EB-EC01DA70513A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.RawStringLiterals", "FutureTech2022.CSharp11.RawStringLiterals\FutureTech2022.CSharp11.RawStringLiterals.csproj", "{EAAE793B-254E-4ED2-8B3A-1D0175FA7BAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CSharp11.RawStringLiterals", "FutureTech2022.CSharp11.RawStringLiterals\FutureTech2022.CSharp11.RawStringLiterals.csproj", "{EAAE793B-254E-4ED2-8B3A-1D0175FA7BAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.Utf8StringLiterals", "FutureTech2022.CSharp11.Utf8StringLiterals\FutureTech2022.CSharp11.Utf8StringLiterals.csproj", "{F7D276DC-2242-40B3-9309-E8D4CBFF28A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CSharp11.Utf8StringLiterals", "FutureTech2022.CSharp11.Utf8StringLiterals\FutureTech2022.CSharp11.Utf8StringLiterals.csproj", "{F7D276DC-2242-40B3-9309-E8D4CBFF28A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CacheMetrics", "FutureTech2022.CacheMetrics\FutureTech2022.CacheMetrics.csproj", "{665D0BFA-7C93-4E7E-994B-42078D7F2D1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CacheMetrics", "FutureTech2022.CacheMetrics\FutureTech2022.CacheMetrics.csproj", "{665D0BFA-7C93-4E7E-994B-42078D7F2D1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.GrpcJsonTranscoding", "FutureTech2022.GrpcJsonTranscoding\FutureTech2022.GrpcJsonTranscoding.csproj", "{C852937F-1092-4CE5-A367-1D429331C7B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.GrpcJsonTranscoding", "FutureTech2022.GrpcJsonTranscoding\FutureTech2022.GrpcJsonTranscoding.csproj", "{C852937F-1092-4CE5-A367-1D429331C7B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.Maui", "FutureTech2022.Maui\FutureTech2022.Maui.csproj", "{22BC50FE-D0C5-4739-88AB-6B4424A231DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.Maui", "FutureTech2022.Maui\FutureTech2022.Maui.csproj", "{22BC50FE-D0C5-4739-88AB-6B4424A231DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.MauiBlazor", "FutureTech2022.MauiBlazor\FutureTech2022.MauiBlazor.csproj", "{347FC7F5-B9E6-48FE-B235-511F298B9BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.MauiBlazor", "FutureTech2022.MauiBlazor\FutureTech2022.MauiBlazor.csproj", "{347FC7F5-B9E6-48FE-B235-511F298B9BCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.RegExSourceGenerator", "FutureTech2022.RegExSourceGenerator\FutureTech2022.RegExSourceGenerator.csproj", "{7C57F813-FE06-4111-AEAA-1017AD0A214D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CSharp11.AutoFields", "FutureTech2022.CSharp11.AutoFields\FutureTech2022.CSharp11.AutoFields.csproj", "{F3B9396C-A8A4-45D2-ACE4-44BD4A8321D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Upgrade Assistant", "1. Upgrade Assistant", "{B57F5919-BC40-43DD-8B4A-B658EE10238A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Poll", "0. Poll", "{75976BB5-DF4F-4720-91BE-A3AC0BC97AC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Cache Metrics", "6. Cache Metrics", "{05B6A164-B6AA-44B7-A0E7-0D3A209B6779}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. MAUI", "2. MAUI", "{A690B8E8-190D-4FCB-83EA-92FD60B5231E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. gRPC JSON Transcoding", "3. gRPC JSON Transcoding", "{91A99D31-95DB-4CAD-B0EF-77AEB800DAC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. RegEx Source Generator", "4. RegEx Source Generator", "{ACC234FF-22C7-4F3F-AA9A-4BB1B2891C7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Microseconds and Nanoseconds", "7. Microseconds and Nanoseconds", "{4297FEF9-0B8E-4171-872F-9DBE3234287D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.GenericAttributes", "FutureTech2022.CSharp11.GenericAttributes\FutureTech2022.CSharp11.GenericAttributes.csproj", "{87F54D4D-18D5-422F-9DBE-096BBE854854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.AutoDefaultStructs", "FutureTech2022.CSharp11.AutoDefaultStructs\FutureTech2022.CSharp11.AutoDefaultStructs.csproj", "{062F7630-3BAC-4F98-827A-00BCB96CBD79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.CSharp11.ExtendedNameOfScope", "FutureTech2022.CSharp11.ExtendedNameOfScope\FutureTech2022.CSharp11.ExtendedNameOfScope.csproj", "{5252EB10-9410-4753-901C-0093B6A701BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. New Tar APIs", "2. New Tar APIs", "{AE0CE3E7-1063-4246-B150-4FA4A0FF3C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.NewTarApis", "FutureTech2022.NewTarApis\FutureTech2022.NewTarApis.csproj", "{B6471B37-9273-459F-8A61-175C57EDCF59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. System.Text.Json Additions", "5. System.Text.Json Additions", "{34A8FEB7-8638-41F5-86DA-24D5B9670D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.JsonAdditions", "FutureTech2022.JsonAdditions\FutureTech2022.JsonAdditions.csproj", "{25F25B57-ED86-44DC-832B-3760B8309E2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,16 +109,56 @@ Global
 		{347FC7F5-B9E6-48FE-B235-511F298B9BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347FC7F5-B9E6-48FE-B235-511F298B9BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{347FC7F5-B9E6-48FE-B235-511F298B9BCF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7C57F813-FE06-4111-AEAA-1017AD0A214D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C57F813-FE06-4111-AEAA-1017AD0A214D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C57F813-FE06-4111-AEAA-1017AD0A214D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C57F813-FE06-4111-AEAA-1017AD0A214D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B9396C-A8A4-45D2-ACE4-44BD4A8321D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B9396C-A8A4-45D2-ACE4-44BD4A8321D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B9396C-A8A4-45D2-ACE4-44BD4A8321D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B9396C-A8A4-45D2-ACE4-44BD4A8321D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F54D4D-18D5-422F-9DBE-096BBE854854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F54D4D-18D5-422F-9DBE-096BBE854854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F54D4D-18D5-422F-9DBE-096BBE854854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F54D4D-18D5-422F-9DBE-096BBE854854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062F7630-3BAC-4F98-827A-00BCB96CBD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062F7630-3BAC-4F98-827A-00BCB96CBD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062F7630-3BAC-4F98-827A-00BCB96CBD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062F7630-3BAC-4F98-827A-00BCB96CBD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5252EB10-9410-4753-901C-0093B6A701BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5252EB10-9410-4753-901C-0093B6A701BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5252EB10-9410-4753-901C-0093B6A701BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5252EB10-9410-4753-901C-0093B6A701BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6471B37-9273-459F-8A61-175C57EDCF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6471B37-9273-459F-8A61-175C57EDCF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6471B37-9273-459F-8A61-175C57EDCF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6471B37-9273-459F-8A61-175C57EDCF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F25B57-ED86-44DC-832B-3760B8309E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F25B57-ED86-44DC-832B-3760B8309E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F25B57-ED86-44DC-832B-3760B8309E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F25B57-ED86-44DC-832B-3760B8309E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{440A814E-E787-4E9F-A66A-878752A5FB84} = {154CC093-CA67-462C-B409-0444CB8D6A31}
+		{45BB9C54-43C9-45A5-940D-367E318A0956} = {4297FEF9-0B8E-4171-872F-9DBE3234287D}
 		{C4BECFD1-3BD4-4CFE-BD21-0EACAEA7E590} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
 		{C8289113-BA80-43C3-83EB-EC01DA70513A} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
 		{EAAE793B-254E-4ED2-8B3A-1D0175FA7BAC} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
 		{F7D276DC-2242-40B3-9309-E8D4CBFF28A3} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
+		{665D0BFA-7C93-4E7E-994B-42078D7F2D1A} = {05B6A164-B6AA-44B7-A0E7-0D3A209B6779}
+		{C852937F-1092-4CE5-A367-1D429331C7B7} = {91A99D31-95DB-4CAD-B0EF-77AEB800DAC4}
+		{22BC50FE-D0C5-4739-88AB-6B4424A231DC} = {A690B8E8-190D-4FCB-83EA-92FD60B5231E}
+		{347FC7F5-B9E6-48FE-B235-511F298B9BCF} = {A690B8E8-190D-4FCB-83EA-92FD60B5231E}
+		{7C57F813-FE06-4111-AEAA-1017AD0A214D} = {ACC234FF-22C7-4F3F-AA9A-4BB1B2891C7E}
+		{F3B9396C-A8A4-45D2-ACE4-44BD4A8321D4} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
+		{87F54D4D-18D5-422F-9DBE-096BBE854854} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
+		{062F7630-3BAC-4F98-827A-00BCB96CBD79} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
+		{5252EB10-9410-4753-901C-0093B6A701BB} = {830BF079-D334-46C5-8D5A-D4ACA954297C}
+		{B6471B37-9273-459F-8A61-175C57EDCF59} = {AE0CE3E7-1063-4246-B150-4FA4A0FF3C00}
+		{25F25B57-ED86-44DC-832B-3760B8309E2C} = {34A8FEB7-8638-41F5-86DA-24D5B9670D92}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D7DD4757-6F22-4C0B-92EE-2E2A1F51BD73}
