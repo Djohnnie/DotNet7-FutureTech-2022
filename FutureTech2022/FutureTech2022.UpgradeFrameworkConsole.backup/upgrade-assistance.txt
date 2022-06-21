@@ -1,0 +1,7 @@
+﻿
+https://microsoft.github.io/sarif-web-component/
+
+
+upgrade-assistant analyze FutureTech2022.UpgradeFrameworkConsole.csproj
+
+upgrade-assistant upgrade FutureTech2022.UpgradeFrameworkConsole.csproj
