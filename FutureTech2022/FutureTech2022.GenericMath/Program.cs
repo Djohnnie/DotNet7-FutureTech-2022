@@ -4,13 +4,26 @@ using static System.Console;
 
 
 WriteLine($"{CalculateFactorial((byte)5)}");
+
 WriteLine($"{CalculateFactorial(5)}");
+
 WriteLine($"{CalculateFactorial(5U)}");
+
 WriteLine($"{CalculateFactorial(5L)}");
+
 WriteLine($"{CalculateFactorial(5UL)}");
+
 WriteLine($"{CalculateFactorial(5.0F)}");
+
 WriteLine($"{CalculateFactorial(5.0D)}");
+
 WriteLine($"{CalculateFactorial(5.0M)}");
+
+
+
+
+
+
 
 
 

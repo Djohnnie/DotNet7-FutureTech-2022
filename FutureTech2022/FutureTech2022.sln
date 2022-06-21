@@ -33,8 +33,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.CSharp11.Aut
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Upgrade Assistant", "1. Upgrade Assistant", "{B57F5919-BC40-43DD-8B4A-B658EE10238A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Poll", "0. Poll", "{75976BB5-DF4F-4720-91BE-A3AC0BC97AC9}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Cache Metrics", "6. Cache Metrics", "{05B6A164-B6AA-44B7-A0E7-0D3A209B6779}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. MAUI", "2. MAUI", "{A690B8E8-190D-4FCB-83EA-92FD60B5231E}"
@@ -70,6 +68,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTech2022.UpgradeFrameworkAspNetMvc", "FutureTech2022.UpgradeFrameworkAspNetMvc\FutureTech2022.UpgradeFrameworkAspNetMvc.csproj", "{5AC09E41-B34E-4710-84B3-70B13A9E4A37}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.UpgradeFrameworkAspNetMvc.backup", "FutureTech2022.UpgradeFrameworkAspNetMvc.backup\FutureTech2022.UpgradeFrameworkAspNetMvc.backup.csproj", "{8D7663C5-E27C-47AA-B0F5-3763B862DAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTech2022.JsonPerformance", "FutureTech2022.JsonPerformance\FutureTech2022.JsonPerformance.csproj", "{BD8B8607-D66A-4DA7-AE43-40CF89D0A443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +173,10 @@ Global
 		{8D7663C5-E27C-47AA-B0F5-3763B862DAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D7663C5-E27C-47AA-B0F5-3763B862DAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D7663C5-E27C-47AA-B0F5-3763B862DAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8B8607-D66A-4DA7-AE43-40CF89D0A443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8B8607-D66A-4DA7-AE43-40CF89D0A443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8B8607-D66A-4DA7-AE43-40CF89D0A443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8B8607-D66A-4DA7-AE43-40CF89D0A443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -201,6 +205,7 @@ Global
 		{F4CBFDE7-B627-4649-BB9E-2CE8DDDEF196} = {B57F5919-BC40-43DD-8B4A-B658EE10238A}
 		{5AC09E41-B34E-4710-84B3-70B13A9E4A37} = {B57F5919-BC40-43DD-8B4A-B658EE10238A}
 		{8D7663C5-E27C-47AA-B0F5-3763B862DAB5} = {B57F5919-BC40-43DD-8B4A-B658EE10238A}
+		{BD8B8607-D66A-4DA7-AE43-40CF89D0A443} = {ACC234FF-22C7-4F3F-AA9A-4BB1B2891C7E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D7DD4757-6F22-4C0B-92EE-2E2A1F51BD73}

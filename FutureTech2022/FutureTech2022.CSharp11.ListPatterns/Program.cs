@@ -8,14 +8,18 @@ WriteLine("{ 1, 2 }");
 WriteLine("{ 1, 3 }");
 WriteLine("{ 1, 3, 5 }");
 WriteLine("{ 2, 5, 6, 7 }");
+
 WriteLine();
+
 WriteLine(CheckSwitch(new[] { 1, 2, 10 }));
 WriteLine(CheckSwitch(new[] { 1, 2, 7, 3, 3, 10 }));
 WriteLine(CheckSwitch(new[] { 1, 2 }));
 WriteLine(CheckSwitch(new[] { 1, 3 }));
 WriteLine(CheckSwitch(new[] { 1, 3, 5 }));
 WriteLine(CheckSwitch(new[] { 2, 5, 6, 7 }));
+
 WriteLine();
+
 WriteLine(CaptureSlice(new[] { 1, 2, 10 }));
 WriteLine(CaptureSlice(new[] { 1, 2, 7, 3, 3, 10 }));
 WriteLine(CaptureSlice(new[] { 1, 2 }));

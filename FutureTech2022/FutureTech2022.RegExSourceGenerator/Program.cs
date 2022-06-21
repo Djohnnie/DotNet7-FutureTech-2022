@@ -2,10 +2,10 @@
 using BenchmarkDotNet.Running;
 using System.Text.RegularExpressions;
 
-BenchmarkRunner.Run<Foo>();
+BenchmarkRunner.Run<RegExBenchmarks>();
 
 
-public partial class Foo
+public partial class RegExBenchmarks
 {
     [RegexGenerator(@"abc|def", RegexOptions.IgnoreCase)] 
     public static partial Regex MyRegex();

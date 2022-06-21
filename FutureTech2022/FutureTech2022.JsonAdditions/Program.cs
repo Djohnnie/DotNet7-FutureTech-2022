@@ -1,8 +1,6 @@
 ﻿using System.Net.Http.Json;
 using System.Text.Json;
 
-Console.WriteLine("Hello, World!");
-
 var subNode = new Node();
 
 var node = new Node
@@ -22,7 +20,7 @@ var node = new Node
 subNode.Left = node;
 subNode.Right = node;
 
-var serialized = JsonSerializer.Serialize(node, new JsonSerializerOptions { MaxDepth = 4,  });
+var serialized = JsonSerializer.Serialize(node, new JsonSerializerOptions { MaxDepth = 4 });
 Console.WriteLine(serialized);
 
 var client = new HttpClient();

@@ -12,34 +12,35 @@ int h = 1;
 
 var json = $$"""
     {
-        "rectangles": [
+        "Rectangles": [
             {
-                "x": {{x}},
-                "y": {{y}},
-                "width": {{w}},
-                "height": {{h}}
+                "X": {{x}},
+                "Y": {{y}},
+                "Width": {{w}},
+                "Height": {{h}}
             },
             {
-                "x": {{x}},
-                "y": {{y}},
-                "width": {{w}},
-                "height": {{h}}
+                "X": {{x}},
+                "Y": {{y}},
+                "Width": {{w}},
+                "Height": {{h}}
             }
         ]
     }
     """;
 
-var obj = JsonSerializer.Deserialize<Root>(json);
+
+_ = JsonSerializer.Deserialize<Root>(json);
 
 WriteLine(json);
 
 
-class Root
+public class Root
 {
     public List<Rectangle> Rectangles { get; set; }
-};
+}
 
-class Rectangle
+public class Rectangle
 {
     public int X { get; set; }
     public int Y { get; set; }
